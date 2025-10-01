@@ -1,1 +1,3 @@
-radiotepfm.web.id
+example.com
+example.org
+situs-tes-lain.net
